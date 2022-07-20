@@ -2,7 +2,8 @@ apt update && apt upgrade
 pkg update 
 pkg upgrade 
 pkg install toilet
-toilet -f mono12 -F gay "upload the data..."
+toilet Basant Rajput01 -f smblock
+toilet Upload... -f script
 pkg install figlet
 figlet Done
 
