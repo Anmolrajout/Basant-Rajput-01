@@ -3,7 +3,11 @@ pkg update
 pkg upgrade 
 pkg install toilet
 toilet -f mono12 -F gay "upload the data..."
+pkg install figlet
+figlet Done
 
+tree
+figlet Basant
 
 
 
