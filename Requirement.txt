@@ -7,6 +7,6 @@ pkg upgrade
 
 pkg install toilet
 
-toilet -f mono12 -F gay "upload the data"
+toilet -f mono12 -F gay "complete"
 
 exit 
