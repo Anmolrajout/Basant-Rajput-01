@@ -9,4 +9,4 @@ pkg install toilet
 
 toilet -f mono12 -F gay "complete"
 
-exit 
+typescript
