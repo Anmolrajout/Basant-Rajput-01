@@ -1,4 +1,5 @@
-# Basant-Rajput-01
+# Basant-Rajput01
+
 apt update && apt upgrade
 
 pkg update 
@@ -10,3 +11,6 @@ pkg install toilet
 toilet -f mono12 -F gay "complete"
 
 typescript
+
+
+ls
